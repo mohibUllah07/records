@@ -1,0 +1,14 @@
+C:\Users\asp\source\repos\records\records\bin\Debug\net7.0\records.exe
+C:\Users\asp\source\repos\records\records\bin\Debug\net7.0\records.deps.json
+C:\Users\asp\source\repos\records\records\bin\Debug\net7.0\records.runtimeconfig.json
+C:\Users\asp\source\repos\records\records\bin\Debug\net7.0\records.dll
+C:\Users\asp\source\repos\records\records\bin\Debug\net7.0\records.pdb
+C:\Users\asp\source\repos\records\records\obj\Debug\net7.0\records.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\records\records\obj\Debug\net7.0\records.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\records\records\obj\Debug\net7.0\records.AssemblyInfo.cs
+C:\Users\asp\source\repos\records\records\obj\Debug\net7.0\records.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\records\records\obj\Debug\net7.0\records.dll
+C:\Users\asp\source\repos\records\records\obj\Debug\net7.0\refint\records.dll
+C:\Users\asp\source\repos\records\records\obj\Debug\net7.0\records.pdb
+C:\Users\asp\source\repos\records\records\obj\Debug\net7.0\records.genruntimeconfig.cache
+C:\Users\asp\source\repos\records\records\obj\Debug\net7.0\ref\records.dll
